@@ -3146,3 +3146,5 @@ Split indexes by categories improves performance significantly.
 
 Copyright 2018-2023 Thomas Wilkerling, Hosted by Nextapps GmbH<br>
 Released under the <a href="http://www.apache.org/licenses/LICENSE-2.0.html" target="_blank">Apache 2.0 License</a><br>
+
+[⬆ back to top](#Support this Project)
